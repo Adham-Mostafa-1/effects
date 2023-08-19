@@ -1,0 +1,288 @@
+*{
+ margin: 0;   
+}
+
+
+
+body{
+   background-image: url(./Untitled-1.png);
+   background-attachment: fixed;
+}
+
+
+
+.r{
+   background-image: url(./abstract-gaming-background-xa5qru2gdfqot34z.jpg);
+}
+
+
+.b{
+   float: right;
+}
+
+
+.l1{
+   display: inline-block;
+   list-style-type: none;
+   margin-right: 150px;
+   float: right;
+   margin-top: 30px;
+   color: aliceblue;
+   font-size: 20px;
+}
+
+
+.l1:hover{
+   text-decoration: underline;
+   color: rgb(221, 0, 255);
+   font-size: 30px;
+}
+
+
+h1{
+
+   font-family: cursive;
+
+}
+
+.search{
+   height: 40px;
+   width: 700px;
+   border-radius: 20px;
+   text-align: center;
+   background-color: rgb(255, 255, 255);
+}
+
+
+.search:focus{
+
+   box-shadow: 4px 4px 20px rgba(137, 173, 9, 0.773);
+
+}
+
+
+.a1{
+  display: inline-block;
+  background-color: white;
+  height: 280px;
+  width: 280px;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 200px;
+  margin-right: 490px;
+
+}
+
+.a1:hover{
+   box-shadow: 4px 4px 20px rgba(245, 13, 13, 0.618);
+}
+
+
+.a2{
+display: inline-block;
+
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-right: 496px;
+    
+}
+
+
+.a2:hover{
+   box-shadow: 4px 4px 20px rgba(5, 192, 255, 0.575);   
+}
+
+
+.a3{
+    display: inline-block;  
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+            
+}
+
+
+.a3:hover{      
+            
+   box-shadow: 4px 4px 20px rgba(255, 247, 0, 0.641);
+}
+
+.a4{
+   display: inline-block;
+   background-color: white;
+   height: 280px;
+   width: 280px;
+   text-align: center;
+   border-radius: 20px;
+   margin-top: 200px;
+   margin-right: 490PX;
+                    
+}
+
+
+.a4:hover{
+   box-shadow: 4px 4px 20px rgba(255, 0, 225, 0.627);
+}
+
+
+.a5{
+    display: inline-block;
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-right: 496px;                          
+}
+
+
+.a5:hover{
+  
+    box-shadow: 4px 4px 20px black;
+
+}
+
+
+.a6{
+    display: inline-block;
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+}
+
+
+.a6:hover{
+    box-shadow: 4px 4px 20px rgba(150, 53, 0, 0.678);
+}
+
+
+.a7{
+   display: inline-block;                                   
+   background-color: white;
+   height: 280px;
+   width: 280px;
+   text-align: center;
+   border-radius: 20px;
+   margin-top: 200px;
+   margin-right: 490px;
+}
+                                           
+.a7:hover{
+    box-shadow: 4px 4px 20px rgba(255, 111, 0, 0.708);
+}
+
+
+.a8{
+    display: inline-block;
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-right: 496px;
+}
+
+.a8:hover{             
+    box-shadow: 4px 4px 20px rgba(153, 0, 255, 0.616);
+}
+                
+        
+.a9{
+    display: inline-block;
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+}
+
+.a9:hover{
+    box-shadow: 4px 4px 20px rgb(0, 255, 4);
+}
+
+
+.a10{
+    display: inline-block;
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-right: 490px;
+    margin-bottom: 50px;
+                                                                    
+}
+
+.a10:hover{
+    box-shadow: 4px 4px 20px rgb(180, 0, 63);
+}
+
+
+.a11{
+    display: inline-block;
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-right: 496px;
+    margin-bottom: 50px;
+}
+
+
+.a11:hover{
+    box-shadow: 6px 6px 40px rgb(98, 0, 0);
+}
+
+
+.a12{
+    display: inline-block;
+    background-color: white;
+    height: 280px;
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 200px;
+    margin-bottom: 50px; 
+}
+
+
+.a12:hover{
+    box-shadow: 6px 6px 40px rgb(255, 205, 174);
+}
+          
+
+.o{
+
+   height: 30px;
+   width: 160px;
+   background-color: rgba(51, 98, 4, 0.82);
+   border-radius: 20px;
+   border: 0px;
+   box-shadow: 2px 3px 10px rgba(46, 45, 47, 0.616);
+   margin-top: 5px;
+   font-size: larger;
+}
+
+.o:hover{
+    background-color: rgba(39, 87, 102, 0.82);
+    box-shadow: 2px 3px 10px rgba(208, 110, 74, 0.902);
+}
+
+
